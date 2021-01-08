@@ -17,8 +17,7 @@ My vim configuration. Uses Vim8+ package manager.
 3. Install plugins
     ```
     cd ~/.vim
-    git submodule init
-    git submodule update
+    git submodule update --init --recursive
     ```
 
 ## Acknowledgements
