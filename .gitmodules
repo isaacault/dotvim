@@ -1,21 +1,21 @@
-[submodule "/Users/isaac/.vim/pack/vendor/start/nerdtree"]
-	path = /Users/isaac/.vim/pack/vendor/start/nerdtree
-	url = https://github.com/preservim/nerdtree.git
-[submodule "/Users/isaac/.vim/pack/vendor/start/python-mode"]
-	path = /Users/isaac/.vim/pack/vendor/start/python-mode
+[submodule "pack/vendor/start/nerdtree"]
+	path = pack/vendor/start/nerdtree
+    url = https://github.com/preservim/nerdtree.git
+[submodule "pack/vendor/start/python-mode"]
+	path = pack/vendor/start/python-mode
 	url = https://github.com/python-mode/python-mode.git
-[submodule "/Users/isaac/.vim/pack/vendor/start/vem-tabline"]
-	path = /Users/isaac/.vim/pack/vendor/start/vem-tabline
+[submodule "pack/vendor/start/vem-tabline"]
+	path = pack/vendor/start/vem-tabline
 	url = https://github.com/pacha/vem-tabline.git
-[submodule "/Users/isaac/.vim/pack/vendor/start/vem-statusline"]
-	path = /Users/isaac/.vim/pack/vendor/start/vem-statusline
+[submodule "pack/vendor/start/vem-statusline"]
+	path = pack/vendor/start/vem-statusline
 	url = https://github.com/pacha/vem-statusline.git
-[submodule "/Users/isaac/.vim/pack/vendor/start/vim-indent-object"]
-	path = /Users/isaac/.vim/pack/vendor/start/vim-indent-object
+[submodule "pack/vendor/start/vim-indent-object"]
+	path = pack/vendor/start/vim-indent-object
 	url = https://github.com/michaeljsmith/vim-indent-object.git
-[submodule "/Users/isaac/.vim/pack/vendor/start/quick-scope"]
-	path = /Users/isaac/.vim/pack/vendor/start/quick-scope
+[submodule "pack/vendor/start/quick-scope"]
+	path = pack/vendor/start/quick-scope
 	url = https://github.com/unblevable/quick-scope.git
-[submodule "/Users/isaac/.vim/pack/vendor/start/vim-commentary"]
-	path = /Users/isaac/.vim/pack/vendor/start/vim-commentary
+[submodule "pack/vendor/start/vim-commentary"]
+	path = pack/vendor/start/vim-commentary
 	url = https://github.com/tpope/vim-commentary.git
