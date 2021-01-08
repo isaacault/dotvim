@@ -19,3 +19,6 @@
 [submodule "pack/vendor/start/vim-commentary"]
 	path = pack/vendor/start/vim-commentary
 	url = https://github.com/tpope/vim-commentary.git
+[submodule "pack/vendor/start/VimCompletesMe"]
+	path = pack/vendor/start/VimCompletesMe
+	url = git://github.com/ajh17/VimCompletesMe.git
