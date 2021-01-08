@@ -19,6 +19,10 @@ set mouse=a
 let mapleader = ","
 
 
+" Open new files on bottom and on the right when splitting
+set splitbelow splitright
+
+
 " Bind nohl
 " Removes highlight of your last search
 " ``<C>`` stands for ``CTRL`` and therefore ``<C-n>`` stands for ``CTRL+n``
