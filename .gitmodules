@@ -25,3 +25,6 @@
 [submodule "pack/vendor/start/vim-surround"]
 	path = pack/vendor/start/vim-surround
 	url = git@github.com:tpope/vim-surround.git
+[submodule "pack/vendor/start/editorconfig"]
+	path = pack/vendor/start/editorconfig
+	url = git@github.com:editorconfig/editorconfig-vim.git
